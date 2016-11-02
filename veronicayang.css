@@ -1,0 +1,18 @@
+
+h1{color: #2F4F4F;}
+
+
+
+body{
+	background-image: url('Mekong.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 50% 50%;
+	background-position: fixed;
+
+	font-family: "Times New Roman", Times, serif;
+	color: #778899;
+
+}
+
+
